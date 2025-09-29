@@ -9,6 +9,7 @@ Você pode acessar o projeto online através do link abaixo:
 
 
 ## ⚙️ Tecnologias utilizadas
+- **TypeScript** - TypeScript - Superset do JavaScript que adiciona tipagem estática, ajudando a evitar erros e melhorar a produtividade no desenvolvimento. 
 - **React.js** - Biblioteca para construção de interfaces de usuário.  
 - **Next.js** - Framework React com renderização no servidor (SSR) e geração de páginas estáticas (SSG).  
 - **TailwindCSS** - Framework CSS utilitário para estilização rápida e responsiva.  

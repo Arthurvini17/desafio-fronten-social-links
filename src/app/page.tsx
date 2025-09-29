@@ -14,9 +14,6 @@ export default function Home() {
   return (
     <div className="bg-black h-screen  flex items-center justify-center">
       <div className="bg-[#1f1f1f] rounded-xl w-full sm:w-screen max-w-md p-10 text-center shadow-lg flex flex-col">
-
-
-
         <div className="flex flex-col items-center gap-2">
           <IconUser />
 
